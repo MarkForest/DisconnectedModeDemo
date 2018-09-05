@@ -1,0 +1,9 @@
+c:\users\teather\documents\visual studio 2017\Projects\DataTableTest\DataTableTest\bin\Debug\DataTableTest.exe.config
+c:\users\teather\documents\visual studio 2017\Projects\DataTableTest\DataTableTest\bin\Debug\DataTableTest.exe
+c:\users\teather\documents\visual studio 2017\Projects\DataTableTest\DataTableTest\bin\Debug\DataTableTest.pdb
+c:\users\teather\documents\visual studio 2017\Projects\DataTableTest\DataTableTest\obj\Debug\DataTableTest.csprojResolveAssemblyReference.cache
+c:\users\teather\documents\visual studio 2017\Projects\DataTableTest\DataTableTest\obj\Debug\DataTableTest.Form1.resources
+c:\users\teather\documents\visual studio 2017\Projects\DataTableTest\DataTableTest\obj\Debug\DataTableTest.Properties.Resources.resources
+c:\users\teather\documents\visual studio 2017\Projects\DataTableTest\DataTableTest\obj\Debug\DataTableTest.csproj.GenerateResource.Cache
+c:\users\teather\documents\visual studio 2017\Projects\DataTableTest\DataTableTest\obj\Debug\DataTableTest.exe
+c:\users\teather\documents\visual studio 2017\Projects\DataTableTest\DataTableTest\obj\Debug\DataTableTest.pdb
